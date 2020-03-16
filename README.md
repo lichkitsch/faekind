@@ -1,6 +1,4 @@
 # faekind
-Documents repo for the first season of the _dnduet_ podcast, Faekind.
-
 Faekind uses the core _dnduet_ RPG system with modifications for magic spell-casting. The basic rules are listed below.
 
 ## System
