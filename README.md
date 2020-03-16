@@ -34,7 +34,7 @@ Up to 8 objects can be carried in a creature's inventory. Items range from rank 
 | Rank | Type | Effect | Example |
 |:---:|:---:|:--- |:--- |
 | F | Cursed | Disadvantage for specific actions | Hexed bracelet: disadvantage when touching metal |
-| D | Mundane | +0, no special effect outside of purpose | Cell phone: contact allies and gather information |
+| D | Mundane | No special effect outside of purpose | Cell phone: contact allies and gather information |
 | C | Rare | +1 to specific actions | Magic map: +1 when using map to find secrets |
 | B | Very rare | +2 to specific actions |  |
 | A | Legendary | +3 to specific actions |  |
