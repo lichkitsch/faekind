@@ -29,7 +29,7 @@ Sentient creatures in _dnduet_ have 6 stats which are added to action rolls:
 *When creating a character, roll `1d4-2` for each stat and set their level 1 starting HP to `10+CON`.
 
 ## Items and Inventory
-Up to 8 objects can be carried in a creature's inventory. Items range from rank F to rank S and can have an effect on stats, action rolls, HP, and other areas of the game world. The ranks are explained below:
+Characters can carry up to 8 objects in their inventory. Items range from rank F to rank S and can have an effect on stats, action rolls, HP, and other areas of the game world. The ranks are explained below:
 
 | Rank | Type | Effect | Example |
 |:---:|:---:|:--- |:--- |
