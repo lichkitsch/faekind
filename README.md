@@ -33,74 +33,32 @@ If the creature/object/task that the player is acting against has heart points (
 ### Items and Inventory
 Characters can carry up to 8 objects in their inventory. Items range from rank F to rank S and can have an effect on stats, action rolls, HP, and other areas of the game world. The ranks are explained below:
 
-Rank
-Type
-Effect
-S
-Blessed
-Advantage on some rolls
-A
-Legendary
-+3 to certain action rolls
-B
-Very Rare
-+2 to certain action rolls
-C
-Rare
-+1 to certain action rolls
-D
-Mundane
-No special effect
-F
-Cursed
-Disadvantage on some rolls
+| Rank | Type | Effect |
+|:---:|:---:|:--- |
+| S | Blessed | Advantage on some rolls |
+| A | Legendary | +3 to certain action rolls |
+| B | Very Rare | +2 to certain action rolls |
+| C | Rare | +1 to certain action rolls |
+| D | Mundane | No special effect |
+| F | Cursed | Disadvantage on some rolls |
 
 ### Leveling Up
 When the PC has earned it and the GM approves, the character can move up a level:
 
-
-Effect
-Max HP
-
-
-Effect
-Max HP
-L1
-1d4
-10+CON
-L7
-2d10
-+3d6
-L2
-1d6
-+2d4
-L8
-2d12
-+3d6
-L3
-1d8
-+2d4
-L9
-3d10
-+3d12
-L4
-1d10
-+2d4
-L10
-3d12
-+3d12
-L5
-2d6
-+3d6
-L11
-4d10
-+3d12
-L6
-2d8
-+3d6
-L12
-4d12
-+5d10
+| LV | Effect | Max HP |
+|:---:|:---:|:---:|
+| 1 | `1d4` | `10+CON` |
+| 2 | `1d6` | +`2d4` |
+| 3 | `1d8` | +`2d4` |
+| 4 | `1d10` | +`2d4` |
+| 5 | `2d6` | +`3d6` |
+| 6 | `2d8` | +`3d6` |
+| 7 | `2d10` | +`3d6` |
+| 8 | `2d12` | +`3d6` |
+| 9 | `3d10` | +`3d12` |
+| 10 | `3d12` | +`3d12` |
+| 11 | `4d10` | +`3d12` |
+| 12 | `4d12` | +`5d10` |
 
 * Reroll CON dice when leveling up Max HP.
 
