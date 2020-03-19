@@ -1,7 +1,7 @@
 | NPC | wants to... | so they... |
 |:---:|:--- |:--- |
-| Fox | find out Clove was somehow telling the truth | inquire about Fern and Jacob's magic, tie it to Clove |
-| Jacob | find out what's wrong with himself and come up with a cure | Go to visit Dahlia for advice |
+| Fox | find out if Clove was somehow telling the truth | inquire about Fern and Jacob's magic |
+| Jacob | find out what's wrong with himself and find a cure | Go to visit Dahlia for guidance |
 | Fern |  |  |
 | Ash |  |  |
 | Dahlia |  |  |
@@ -10,4 +10,5 @@
 
 | Scenes |
 |:--- |
+| Get Jacob to Dahlia |
 |  |
