@@ -25,13 +25,13 @@ Sentient creatures in dnduet have six stats which are added to action rolls:
 | Wisdom | Intuition, perception, ranged |
 | Charisma | Personality, persuasion, deceit |
 
-*When creating a character, roll 1d4-2 for each stat and set their level 1 starting HP to 10+CON.
+*When creating a character, roll `1d4-2` for each stat and set their L1 starting HP to `10+CON`.
 
 ### Heart Points
-If the creature/object/task that the player is acting against has heart points (HP) and the result is positive, the player rolls effect dice and increases or decreases the HP of the target accordingly. Player characters have HP which can be increased or decreased by creatures/objects/tasks as well. If a character's HP reaches zero they suffer a major setback or, should the narrative demand it, death. HP is regained with items and spells, but can also be regained using effect dice after a short rest (4 hours) and back to full after a long rest (8 hours).
+Heart points (HP) represent the integrity of a creature, object, or task. If the subject that the player is acting against has HP and the result is positive, the player rolls effect dice and increases or decreases the HP of the target accordingly. Player characters have HP which can be increased or decreased by creatures/objects/tasks as well. If a character's HP reaches zero they suffer a major setback or, should the narrative demand it, death. HP is regained with items and spells, but can also be regained using effect dice after a short rest (4 hours) and back to full after a long rest (8 hours).
 
 ### Items and Inventory
-Characters can carry up to 8 objects in their inventory. Items range from rank F to rank S and can have an effect on stats, action rolls, HP, and other areas of the game world. The ranks are explained below:
+Characters can carry up to eight objects in their inventory. Items range from rank F to rank S and can have an effect on stats, action rolls, HP, and other areas of the game world. The ranks are explained below:
 
 | Rank | Type | Effect |
 |:---:|:---:|:--- |
