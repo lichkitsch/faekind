@@ -12,8 +12,8 @@ Sorrel left Ash, Fern, and Jacob before they went to see Dahlia. Fox is driving 
 - **Fox** wants to learn more about Sorrel's world, so he quit his job to pay closer attention.
 - **Beech** wants to get away from Hemlock for a while, so she snuck away, back to her apartment.
 - **Hemlock** wants to put an annoying curse on Sorrel as a prank, so he tried (unsuccessfully) to make a plan with Beech.
-- **Alder** wants to keep the Fae safe and secret, so he'll send a team to retrieve the salamander from beneath Malva's club.
-- **Achillea** wants to know what the Seelie Princess is doing in her territory, so she'll have her picked up and transported to her.
+- **Alder** wants to keep the Fae safe and secret, so he'll send a team to get the salamander from beneath Malva's club.
+- **Achillea** wants to know what the Seelie Princess is doing in her territory, so she'll have her brought to her.
 - **Castor** wants to expand his reach, so he's negotiating with Jasper Thornfrost when Sorrel arrives at their home.
 
 ## Goal
