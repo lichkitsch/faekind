@@ -32,7 +32,7 @@ Beech lives in a top-floor apartment near the bay.
 ### Blackwood Palace
 The Blackwood's "palace" is actually a moderately-sized yacht floating in Paragon Bay. They live in a penthouse overlooking the wharf, but conduct most of their business on the water. Castor is a Sea Troll, hairy on land but more like a barbed shark when in the water.
 
-![alt text](img url)
+![fancy yacht with lights lining the bottom, shining into the water](https://c4.wallpaperflare.com/wallpaper/897/383/577/yachts-3d-render-vehicle-wallpaper-preview.jpg)
 
 | ID | Area | Description | Notes |
 |:---:|:---:|:--- |:--- |
