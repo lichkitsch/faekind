@@ -9,17 +9,28 @@ Sorrel left Ash, Fern, and Jacob before they went to see Dahlia. Fox is driving 
 5. Beware text from unknown
 
 ## NPCs
-| NPC | wants to... | so they... |
-|:---:|:--- |:--- |
-| Fox | learn more about Sorrel's world | quit his job to watch more closely |
-| Beech | get away from Hemlock | snuck away, back to her apartment |
-| Hemlock | put an annoying curse on Sorrel as a prank | tried to make a plan with Beech but was rejected |
+- **Fox** wants to learn more about Sorrel's world, so he quit his job to pay closer attention.
+- **Beech** wants to get away from Hemlock for a while, so she snuck away, back to her apartment.
+- **Hemlock** wants to put an annoying curse on Sorrel as a prank, so he tried (unsuccessfully) to make a plan with Beech.
+- **Alder** wants to keep the Fae safe and secret, so he'll send a team to retrieve the salamander from beneath Malva's club.
+- **Achillea** wants to know what the Seelie Princess is doing in her territory, so she'll have her picked up and transported to her.
+- **Castor** wants to expand his reach, so he's negotiating with Jasper Thornfrost when Sorrel arrives at their home.
 
 ## Goal
 
 
 ## Locations
-### Place Name
+### Beech's Apartment
+Beech lives in a top-floor apartment near the bay.
+
+![alt text](img url)
+
+| ID | Area | Description | Notes |
+|:---:|:---:|:--- |:--- |
+|  |  |  |  |
+
+### Blackwood Palace
+The Blackwood's "palace" is actually a moderately-sized yacht floating in Paragon Bay. They live in a penthouse overlooking the wharf, but conduct most of their business on the water. Castor is a Sea Troll, hairy on land but more like a barbed shark when in the water.
 
 ![alt text](img url)
 
