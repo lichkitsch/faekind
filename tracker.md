@@ -13,7 +13,7 @@
 ## Motivations
 | Name | Wants to... | So they... |
 |:---:|:--- |:--- |
-| Fox | find out more about his parents | quit his job as a detective to focus on digging into Sorrel's strange world |
+| Fox | find out more about his parents | take an extended vacation from his job as a detective to focus on digging into Sorrel's strange world |
 | Fern |  |  |
 | Hemlock |  |  |
 | Beech | distance herself from Hemlock |  |
