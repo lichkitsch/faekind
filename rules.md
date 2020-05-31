@@ -40,7 +40,7 @@ If the player's HP reaches zero, they suffer a major setback. This could mean im
 <hr/>
 
 ## Moves and Items
-Creatures and characters can have up to 4 **moves**. Moves are special actions that your character can make thanks to their specific talents, abilities, or physical features. As you level up, you gain access to more moves and have the opportunity to swap out for different moves available to you. Moves typically reduce or replenish HP, but not always.
+Creatures and characters can have up to 4 **moves**. Moves are special actions that your character can make thanks to their specific talents, abilities, or physical features. They may also be based in your character's background or profession. As you level up, you gain access to more moves and have the opportunity to swap out for different moves available to you. Moves typically reduce or replenish HP, but not always.
 
 Items work in a similar fashion, but usually items are required to make certain moves or they only have a limited number of uses. Items might grant extra points to action rolls or offer the chance to reroll action or effect dice.
 
