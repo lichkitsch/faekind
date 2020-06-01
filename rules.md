@@ -4,18 +4,18 @@ _DNDuet_ is a system for creating and playing custom tabletop RPGs for two, one 
 <hr/>
 
 ## Character Creation
-Roll `1d4-2` six times and put one score to each stat:
+Roll `1d4-2` for each of the 6 stats below. If you have a character build in mind, feel free to rearrange the results.
 
 | Stats |
 |:--- |
 | _STR_ is for athletics, muscle, and melee attacks|
 | _DEX_ is for acrobatics, stealth, and sneak attacks |
 | _CON_ is for health, stamina, and endurance |
-| _INT_ is for memory, logic, and reason |
+| _INT_ is for memory, logic, and critical thinking |
 | _WIS_ is for willpower, perception, and ranged attacks |
 | _CHA_ is for personality, persuasion, and deception |
 
-After you have your starting stat scores, come up with 1 flaw, 1 quirk, and 1 virtue to describe your character's personality. Come up with a background and a desire, then briefly describe your character's appearance.
+After you have your starting stat scores, come up with 1 flaw (negative), 1 quirk (neutral), and 1 virtue (positive) to describe your character's personality. Come up with a background and a desire, then briefly describe your character's appearance.
 
 <hr/>
 
@@ -40,7 +40,7 @@ If the player's HP reaches zero, they suffer a major setback. This could mean im
 <hr/>
 
 ## Moves and Items
-Creatures and characters can have up to 4 **moves**. Moves are special actions that your character can make thanks to their specific talents, abilities, or physical features. They may also be based in your character's background or profession. As you level up, you gain access to more moves and have the opportunity to swap out for different moves available to you. Moves typically reduce or replenish HP, but not always.
+Creatures and characters start with 2 **moves** and can have up to 4 at a time. Moves are special actions that your character can make thanks to their specific talents, abilities, or physical features. They may also be based in your character's background or profession. As you level up, you gain access to more moves and have the opportunity to swap out for different moves available to you. Moves typically reduce or replenish HP, but not always.
 
 Items work in a similar fashion, but usually items are required to make certain moves or they only have a limited number of uses. Items might grant extra points to action rolls or offer the chance to reroll action or effect dice.
 
@@ -49,9 +49,54 @@ Items work in a similar fashion, but usually items are required to make certain 
 ## Leveling Up
 After reaching significant milestones, characters might gain a chance to level up and improve their character's effectiveness.
 
-- Roll `1d10` _CON_ times and add the best result to your max HP
-- Add 1 point to any stat that is less than 5
-- Review your moves and swap one out if available
-- Mark down your new effect dice
+1. Roll `1d10` _CON_ times and add the best result to your max HP
+2. Add 1 point to any stat that is less than 5
+3. Review your moves and swap one out if available
+4. Mark down your new effect dice
 
 _DNDuet_ includes a level cap of 12, but with some modification using the "extended rules" your character can continue getting stronger well past this point.
+
+<hr/>
+
+## Sample Character
+### Adrien Fox, L2 Bodyguard
+<table>
+  <tr>
+    <th colspan="2">HP</th>
+    <th colspan="2">Max</th>
+    <th colspan="2">Effect</th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;">10</td>
+    <td colspan="2" style="text-align:center;">10</td>
+    <td colspan="2" style="text-align:center;">1d6</td>
+  </tr>
+  <tr>
+    <th colspan="2">M1</th>
+    <td colspan="4"><s>Flash Badge</s></td>
+  </tr>
+  <tr>
+    <th colspan="2">M2</th>
+    <td colspan="4">Marksmanship</td>
+  </tr>
+  <tr>
+    <th colspan="2">M3</th>
+    <td colspan="4">Deduction</td>
+  </tr>
+  <tr>
+    <th colspan="3">Personality</th>
+    <th colspan="2">Appearance</th>
+  </tr>
+  <tr>
+    <td colspan="3">Kind-hearted, basic, pushover</td>
+    <td colspan="3">Heterochromia, wild black hair, clean clothes</td>
+  </tr>
+  <tr>
+    <th colspan="3">Background</th>
+    <th colspan="3">Desire</th>
+  </tr>
+  <tr>
+    <td colspan="3">Orphan, cop, detective, bodyguard</td>
+    <td colspan="3">Find his birth parents</td>
+  </tr>
+</table>
