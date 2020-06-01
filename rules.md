@@ -15,7 +15,7 @@ Roll `1d4-2` for each of the 6 stats below. If you have a character build in min
 | _WIS_ is for willpower, perception, and ranged attacks |
 | _CHA_ is for personality, persuasion, and deception |
 
-After you have your starting stat scores, come up with 1 flaw (negative), 1 quirk (neutral), and 1 virtue (positive) to describe your character's personality. Come up with a background and a desire, then briefly describe your character's appearance.
+After you have your starting stat scores, come up with 1 virtue (positive), 1 quirk (neutral), and 1 flaw (negative) to describe your character's personality. Come up with a background and a desire, then briefly describe your character's appearance.
 
 <hr/>
 
@@ -66,10 +66,26 @@ _DNDuet_ includes a level cap of 12, but with some modification using the "exten
     <th colspan="2">Max</th>
     <th colspan="2">Effect</th>
   </tr>
+  <tr style="text-align:center;">
+    <td colspan="2">10</td>
+    <td colspan="2">10</td>
+    <td colspan="2">1d6</td>
+  </tr>
   <tr>
-    <td colspan="2" style="text-align:center;">10</td>
-    <td colspan="2" style="text-align:center;">10</td>
-    <td colspan="2" style="text-align:center;">1d6</td>
+    <th>STR</th>
+    <th>DEX</th>
+    <th>CON</th>
+    <th>INT</th>
+    <th>WIS</th>
+    <th>CHA</th>
+  </tr>
+  <tr style="text-align:center;">
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>-1</td>
   </tr>
   <tr>
     <th colspan="2">M1</th>
@@ -85,7 +101,7 @@ _DNDuet_ includes a level cap of 12, but with some modification using the "exten
   </tr>
   <tr>
     <th colspan="3">Personality</th>
-    <th colspan="2">Appearance</th>
+    <th colspan="3">Appearance</th>
   </tr>
   <tr>
     <td colspan="3">Kind-hearted, basic, pushover</td>
@@ -96,7 +112,7 @@ _DNDuet_ includes a level cap of 12, but with some modification using the "exten
     <th colspan="3">Desire</th>
   </tr>
   <tr>
-    <td colspan="3">Orphan, cop, detective, bodyguard</td>
+    <td colspan="3">Orphan, cop, detective</td>
     <td colspan="3">Find his birth parents</td>
   </tr>
 </table>
