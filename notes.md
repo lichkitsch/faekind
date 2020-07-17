@@ -9,7 +9,7 @@ Faekind Notes
 - Beech - Stonespeaker
 - Wet cement will rmr this
 - Fresh face, messy hair, black & blue eye - Fox
-- Red
+- Redd
 - Jasper
 - PLAY - ACTING GROUP (HAMLET)
 - Hit by truck

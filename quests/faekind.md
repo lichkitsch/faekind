@@ -7,7 +7,7 @@
 7. Achillea is a vampire and Castor is a swamp troll.
 8. 
 
-Sorrel "Oxalis" Primrose Danann - Water Dragon, Princess of the Seelie Court, Musician, and Trickster
+| Sorrel "Oxalis" Primrose Danann - Water Dragon, Princess of the Seelie Court, Musician, and Trickster
 Fern - Autumn Fern Dryad, Sorrel's best friend and ex-fiancee, Barista at the Copper Cup
 Adrien "Foxglove" Fox - Vampire Troll, True Prince of the Unseelie Court and Detective with the PPD
 Redd - Human, Detective with the PPD
