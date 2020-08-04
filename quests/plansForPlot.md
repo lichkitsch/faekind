@@ -89,3 +89,32 @@ Lavender shows up to one of Sorrel's BotB shows in the front row
 3. Fox finds out Sorrel is the princess
 4. Fox finds out he is fae
 5. Fox finds out he is the prince
+
+Ashe has a motorcycle
+jacob transman
+lavender transwoman
+gnarly fae hepsen
+
+meet fox cat at his apartment, cats scare sorrel
+
+ring after hours, teaching each other fighting techniques, talking about fae things
+
+sorrel wants to go to the opening of a new aquarium in the city as their first date
+
+Clove needs ingredients from the Twilight but nobody is available because of Jasper lurking about, asks for help?
+
+Shade met sorrel by helpong her fight off hemlock then they go get hotdogs
+
+flashbavks instead of band battles for podcazt
+
+- meet
+- first time at shade show, pulled up on stage to sing
+- first time sex
+- tunnels (drinking and drugs) convo about family, parents killed by dragons
+- holiday present see-thru keytar, surprised she kept it
+- brwakup
+
+shade other band members
+vinca - mantis drummer (tall), black hair madagascan marbled mantis
+dombeya - fossa bassist pink hair
+
