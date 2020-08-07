@@ -118,3 +118,7 @@ shade other band members
 vinca - mantis drummer (tall), black hair madagascan marbled mantis
 dombeya - fossa bassist pink hair
 
+shade says smth about sorrels tits getting bigger since she gained weight
+
+sorrel says smth about fox's hair and eyes
+
