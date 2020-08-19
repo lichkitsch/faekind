@@ -3,7 +3,7 @@
 | Dishonesty |
 | Problem with Touch |
 | Instability |
-| Distrust |
+| *Distrust |
 | Grief |
 | Social or Business Rivalry |
 | Fear of Intimacy |
@@ -11,11 +11,11 @@
 | Not Self Actualized |
 | The Friend Zone |
 | Feelings of Unworthiness |
-| History of Abuse |
+| *History of Abuse |
 | Unforgiving |
 | Disappointment |
-| Inability to Communicate |
-| Forbidden Relationship |
+| *Inability to Communicate |
+| *Forbidden Relationship |
 | Competition |
 | Value Conflict |
 | Control |
@@ -26,20 +26,20 @@
 | Fear of Being in Public |
 | Evil Ex |
 | Inability to Forgive |
-| Disapproving Parents |
+| *Disapproving Parents |
 | Age Difference |
 | Fear of Abandonment |
 | Cultural Conflict |
 | Religious Conflict |
 | Arranged Relationship |
 | Mistaken Identity |
-| Class Differences |
+| *Class Differences |
 | Pretend Relationship |
-| Hubris |
+| *Hubris |
 | Fear of Commitment |
-| Fear of Rejection |
+| *Fear of Rejection |
 | Taming of the Shrew Syndrome |
-| Poor vs Rich |
+| *Poor vs Rich |
 | Inflexibility |
 | Overdependency |
 | Guilt |

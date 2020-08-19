@@ -122,3 +122,4 @@ shade says smth about sorrels tits getting bigger since she gained weight
 
 sorrel says smth about fox's hair and eyes
 
+cattail sacrifice when older
