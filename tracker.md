@@ -9,6 +9,7 @@
 - Redd in hospital with gunshot wound
 - Caterpillar council
 - Astrid and Thaddeus time nonsense
+- Lightning flash ghost (Titania?)
 
 ## Motivations
 | Name | Wants to... | So they... |
